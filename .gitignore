@@ -1,1 +1,8 @@
-ts_venv
+# Environments
+.env
+.venv
+ts_venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
